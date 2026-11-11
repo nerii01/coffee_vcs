@@ -1,6 +1,6 @@
 # ![Coffee](images/CoffeeIcon.png) Coffee
 
-**Coffee** is a mini git-like version control system written in C++ — built from scratch as a standalone CLI tool with its own shell, commit history, file tracking and basic system commands.
+**Coffee** is a mini git-like version control system written in C++ - built from scratch as a standalone CLI tool with its own shell, commit history, file tracking and basic system commands.
 
 ![C++](https://img.shields.io/badge/C++-20-blue?logo=cplusplus)
 ![Platform](https://img.shields.io/badge/platform-Windows-lightgrey)
